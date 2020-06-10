@@ -7,3 +7,7 @@
 [2주차과제 문제 풀이][twoweek]
 
 [twoweek]:2주차과제.ipynb "2주차 과제"
+## 3 주차 과제 (2020.06.04)
+[3주차과제 문제 풀이][threeweek]
+
+[threeweek]:3주차_과제의_jhm.ipynb "3주차 과제"
