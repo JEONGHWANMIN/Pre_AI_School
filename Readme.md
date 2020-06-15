@@ -12,6 +12,6 @@
 
 [threeweek]:3주차_과제의_jhm.ipynb "3주차 과제"
 ## 4 주차 과제 (2020.06.11)
-[3주차과제 문제 풀이][Fourweek]
+[4주차과제 문제 풀이][Fourweek]
 
-[Foureweek]:4주차_과제_ipynb의_사본.ipynb "4주차 과제"
+[Foureweek]:4주차_과제_ipynb.ipynb "4주차 과제"
